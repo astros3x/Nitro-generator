@@ -1,6 +1,7 @@
 # Nitro generator
 ## 📍 About
-These is a classic nitro generator, slow and useless. 2% efficiency, 98% design. In the future it will be improved to be much more efficient.   ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+These is a classic nitro generator, slow and useless. 2% efficiency, 98% design. <br>
+In the future it will be improved to be much more efficient.   ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 
 
 ![screengen](https://user-images.githubusercontent.com/87500882/227776151-8cc96b3c-ec8d-480c-9954-af60468525d7.png)
