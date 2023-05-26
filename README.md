@@ -1,6 +1,7 @@
 # Nitro generator
 ## 📍 About
-A classic nitro generator improved with threads.  ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+A classic nitro generator improved with threads. ![made-with-python]
+![gengen](https://github.com/astros3x/Nitro-generator/assets/87500882/d8a8abf2-8e9c-4e69-90f7-12cb499b0053)
 
 
 ![screengen](https://user-images.githubusercontent.com/87500882/227776151-8cc96b3c-ec8d-480c-9954-af60468525d7.png)
