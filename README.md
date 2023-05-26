@@ -3,12 +3,13 @@
 # Nitro generator
 
 </div>
-
-</div>
 <div align="center">
+  
   Star ⭐ if you want more <br>
   <a href="https://github.com/astros3x/Nitro-generator#-usage">Usage</a> | <a href="https://discord.gg/XnRjFmgPYz">Discord</a> | <a href="https://github.com/astros3x/Nitro-generator#warning-disclaimer">Disclaimer</a>
+  
 </div>
+
 ## 📍 About
 A classic nitro generator improved with threads. ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 ![gengen](https://github.com/astros3x/Nitro-generator/assets/87500882/d8a8abf2-8e9c-4e69-90f7-12cb499b0053)
