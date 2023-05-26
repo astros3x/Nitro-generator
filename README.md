@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nitro generator
+# Nitro Generator
 
 </div>
 <div align="center">
