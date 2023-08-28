@@ -6,7 +6,7 @@
 <div align="center">
   
   Star ⭐ if you want more <br>
-  <a href="https://github.com/astros3x/Nitro-generator#-usage">Usage</a> | <a href="https://discord.gg/XnRjFmgPYz">Discord</a> | <a href="https://github.com/astros3x/Nitro-generator#warning-disclaimer">Disclaimer</a>
+  <a href="https://github.com/astros3x/Nitro-generator#-usage">Usage</a> | <a href="https://discord.gg/astri">Discord</a> | <a href="https://github.com/astros3x/Nitro-generator#warning-disclaimer">Disclaimer</a>
   
 </div>
 
@@ -23,7 +23,7 @@ A classic nitro generator improved with threads. ![made-with-python](https://img
 
 
 ## :question: Support
-If you have any issues or need help, contantact 2Loop#6969 || CaptainBeluga#5006 or just join our ds [server](https://discord.gg/XnRjFmgPYz).
+If you have any issues or need help, contantact 2Loop#6969 || CaptainBeluga#5006 or just join our ds [server](https://discord.gg/astri).
 
 
 ## :warning: Disclaimer
